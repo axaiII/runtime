@@ -11,5 +11,5 @@
 
   ### 实验环境
   - B2
-  - 计算从当前状态开始，timestep=5内的可达集<br>
+  ### 计算从当前状态开始，timestep=5内的可达集,每一个timestep计算可达集的平均时间为0.7577s<br>
     <img src="https://github.com/axaiII/runtime/blob/main/b2.gif" style='width: 400px; height: 400px;'>
